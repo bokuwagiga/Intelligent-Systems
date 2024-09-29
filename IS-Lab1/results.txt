@@ -1,0 +1,647 @@
+
+Starting Training...
+--- Iteration 1 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): 1.1063
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 1.1755
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 1.1988
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 1.2792
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 1.2334
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 0.9682
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -1.4505
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 2 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -1.4111
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 1.3316
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 1.3620
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 1.4452
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 1.3930
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.0859
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -1.3065
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 3 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -1.2584
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 1.4877
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 1.5252
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 1.6112
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 1.5525
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.2035
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -1.1625
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 4 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -1.1056
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 1.6439
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 1.6884
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 1.7772
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 1.7121
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.3212
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -1.0185
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 5 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -0.9529
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 1.8000
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 1.8516
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 1.9432
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 1.8716
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.4389
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.8745
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 6 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -0.8001
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 1.9561
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 2.0149
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 2.1092
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 2.0312
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.5566
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.7305
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 7 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -0.6474
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 2.1123
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 2.1781
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 2.2752
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 2.1907
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.6742
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.5865
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 8 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -0.4946
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 2.2684
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 2.3413
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 2.4412
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 2.3503
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.7919
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.4424
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 9 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -0.3419
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 2.4245
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 2.5045
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 2.6072
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 2.5098
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 1.9096
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.2984
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 10 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -0.1891
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 2.5807
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 2.6677
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 2.7733
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 2.6694
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 2.0273
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.1544
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 11 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): -0.0364
+Expected: Apple
+Predicted: Pear
+Error: 2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 2.7368
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 2.8309
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 2.9393
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 2.8290
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): 2.1449
+Expected: Pear
+Predicted: Apple
+Error: -2.0
+Prediction Correct: No
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.0104
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+--- Iteration 12 ---
+Input: x1 = 0.21835, x2 = 0.81884
+Weighted Sum (ws): 0.1164
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.37022, x2 = 0.8111
+Weighted Sum (ws): 0.1977
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.36484, x2 = 0.8518
+Weighted Sum (ws): 0.2689
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.55223, x2 = 0.83449
+Weighted Sum (ws): 0.3551
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.49187, x2 = 0.80889
+Weighted Sum (ws): 0.2702
+Expected: Apple
+Predicted: Apple
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.18474, x2 = 0.6279
+Weighted Sum (ws): -0.2548
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.098166, x2 = 0.79092
+Weighted Sum (ws): -0.0104
+Expected: Pear
+Predicted: Pear
+Error: 0.0
+Prediction Correct: Yes
+------------------------------
+
+Training Complete!
+Final Weights and Bias after 12 iterations:
+w1: 0.6291
+w2: 1.8333
+b: -1.5222
+
+Starting Testing...
+Input: x1 = 0.14115, x2 = 0.83535
+Expected: Apple
+Predicted: Apple
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.31565, x2 = 0.83101
+Expected: Apple
+Predicted: Apple
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.46111, x2 = 0.82518
+Expected: Apple
+Predicted: Apple
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.16975, x2 = 0.84049
+Expected: Apple
+Predicted: Apple
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.14913, x2 = 0.77104
+Expected: Pear
+Predicted: Pear
+Prediction Correct: Yes
+------------------------------
+Input: x1 = 0.08838, x2 = 0.62068
+Expected: Pear
+Predicted: Pear
+Prediction Correct: Yes
+------------------------------
+
+Testing Complete! Accuracy: 100.00%
+
+--- Analysis and Conclusion ---
+The algorithm completed training in 12 iterations.
+The model perfectly classified all testing items, indicating that it has learned the patterns well.
+--- End of analysis. ---
