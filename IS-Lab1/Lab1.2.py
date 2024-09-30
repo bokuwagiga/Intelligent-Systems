@@ -54,7 +54,6 @@ def run_naive_bayes():
     accuracy = (correct_predictions / len(testing_items) * 100) if testing_items.size > 0 else 0
     print(f"\nTesting Complete! Accuracy: {accuracy:.2f}%\n")
 
-
     return accuracy
 
 
@@ -64,11 +63,4 @@ def gaussian_probability(x, mean, var):
     return coefficient * exponent
 
 
-eventual_accuracy = 0
-execution_results = []
-
-
 accuracy = run_naive_bayes()
-
-
-
