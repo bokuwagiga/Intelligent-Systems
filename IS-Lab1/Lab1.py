@@ -47,7 +47,7 @@ def run_classifier(print_output=False):
 
             w1 += eta * error * x1
             w2 += eta * error * x2
-            b += error
+            b += eta * error
 
     output_lines.append("\nTraining Complete!\n")
     output_lines.append(f"Final Weights and Bias after {iter_num} iterations:\n")
