@@ -5,13 +5,15 @@ import matplotlib
 matplotlib.use('TkAgg')
 
 # Generate Input Data (X) and Target Outputs (y)
-X = np.linspace(0.1, 1, 20)  # 20 input values between 0.1 and 1
-y = (1 + 0.6 * np.sin(2 * np.pi * X / 0.7) + 0.3 * np.sin(2 * np.pi * X)) / 2
+X_train = np.linspace(0.1, 1, 20)  # 20 input training values between 0.1 and 1
+X_test = np.linspace(0.1, 1, 50)  # 50 input testing values between 0.1 and 1
 
-# Split the data: 80% for training, 20% for testing
-split_index = int(0.8 * len(X))
-X_train, X_test = X[:split_index], X[split_index:]
-y_train, y_test = y[:split_index], y[split_index:]
+def true_function(X):
+    return (1 + 0.6 * np.sin(2 * np.pi * X / 0.7) + 0.3 * np.sin(2 * np.pi * X)) / 2
+
+y_train = true_function(X_train)
+y_test = true_function(X_test)
+
 
 # Hyperparameters
 hidden_neurons = 7
@@ -98,7 +100,7 @@ plt.plot(X_train, final_output_train, 'b-', label='Training Predictions', linewi
 
 # Plot testing data and predictions
 plt.plot(X_test, y_test, 'ro', alpha=0.5, label='Testing Targets', markersize=4)
-plt.plot(X_test, final_output_test, 'r-', label='Testing Predictions', linewidth=2)
+plt.plot(X_test, final_output_test, 'r--', label='Testing Predictions', linewidth=2)
 
 plt.xlabel('Input (X)')
 plt.ylabel('Output (y)')
